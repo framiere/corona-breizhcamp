@@ -39,7 +39,7 @@ function bomb(event)
 	media.playEventSound("bomb.wav")
 end
 
-trucQuiTombe("logos/logo_2.png")
+trucQuiTombe("crate.png")
 
 
 Runtime:addEventListener("accelerometer", fontaine)
